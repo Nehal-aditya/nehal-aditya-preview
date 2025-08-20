@@ -1,5 +1,5 @@
 ---
-title: "My First Blog Post"
+title: "Inspiring quote"
 date: 2024-06-15T10:00:00+05:30 # Example date
 author: "Nehal-aditya"
 tags: ["blogging"]
