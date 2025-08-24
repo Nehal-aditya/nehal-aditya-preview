@@ -21,26 +21,29 @@ menu:
     - name: Docs
       pageRef: /docs
       weight: 1
+    - name: Projects
+      pageRef: /projects
+      weight: 2
     - name: About
       pageRef: /about
-      weight: 2
+      weight: 3
     - name: Blogs
       pageRef: /blog
-      weight: 3
+      weight: 4
     - name: Contact ↗
       url: "https://github.com/Nehal-aditya/"
-      weight: 4
-    - name: Search
       weight: 5
+    - name: Search
+      weight: 6
       params:
         type: search
     - name: GitHub
-      weight: 6
+      weight: 7
       url: "https://github.com/Nehal-aditya/"
       params:
         icon: github
     - name: Youtube
-      weight: 7
+      weight: 8
       url: "https://youtube.com/"
       params:
         icon: youtube
