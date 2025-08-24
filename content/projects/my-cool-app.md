@@ -21,7 +21,7 @@ Here's a list of the key features:
 
 {{< cards >}}
   {{< card title="Frontend" subtitle="React" icon="react" >}}
-  {{< card title="Backend" subtitle="Node.js" icon="nodejs" >}}
+  {{< card title="Backend" subtitle="HTML" icon="html5" >}}
 {{< /cards >}}
 
 ---
