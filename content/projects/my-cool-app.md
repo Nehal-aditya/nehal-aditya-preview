@@ -20,8 +20,8 @@ Here's a list of the key features:
 ### The Stack
 
 {{< cards >}}
-  {{< card title="Frontend" subtitle="React" icon="react" >}}
-  {{< card title="Backend" subtitle="Node.js" icon="nodejs" >}}
+  {{< card title="Frontend" subtitle="React" icon="react.svg" >}}
+  {{< card title="Backend" subtitle="Node.js" icon="nodejs.svg" >}}
 {{< /cards >}}
 
 ---
