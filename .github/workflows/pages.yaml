@@ -36,8 +36,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # fetch all history for .GitInfo and .Lastmod
-          submodules: recursive
+          # Use `submodules: true` to fetch the theme and its shortcodes
+          submodules: true 
+          fetch-depth: 0
       - name: Setup Go
         uses: actions/setup-go@v5
         with:
